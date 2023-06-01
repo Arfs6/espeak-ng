@@ -477,6 +477,7 @@ dictionaries: \
 	espeak-ng-data/gn_dict \
 	espeak-ng-data/grc_dict \
 	espeak-ng-data/gu_dict \
+	espeak-ng-data/ha_dict \
 	espeak-ng-data/hak_dict \
 	espeak-ng-data/haw_dict \
 	espeak-ng-data/he_dict \
@@ -671,6 +672,9 @@ espeak-ng-data/grc_dict: dictsource/grc_list dictsource/grc_rules dictsource/grc
 
 gu: espeak-ng-data/gu_dict
 espeak-ng-data/gu_dict: dictsource/gu_list dictsource/gu_rules dictsource/gu_extra dictsource/gu_emoji
+
+ha: espeak-ng-data/ha_dict
+espeak-ng-data/ha_dict: dictsource/ha_list dictsource/ha_rules
 
 hak: espeak-ng-data/hak_dict
 espeak-ng-data/hak_dict: dictsource/hak_list dictsource/hak_rules dictsource/hak_extra

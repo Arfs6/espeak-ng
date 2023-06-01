@@ -1,0 +1,72 @@
+// replace
+.replace
+    c   ch
+
+.group a
+            a    a
+
+.group b
+	b	b
+
+.group d
+    d    d
+
+.group e
+    e    e
+
+.group f
+    f    f
+
+.group g
+    g    g
+
+.group h
+    h    h
+
+.group i
+    i    i
+
+.group j
+    j    j
+
+.group k
+    k    k
+
+.group l
+    l    l
+
+.group m
+    m    m
+
+.group n
+    n    n
+    n)    C    N
+
+.group o
+    o    o
+
+.group r
+    r    r
+
+.group s
+    s    s
+
+.group sh
+    sh S
+
+.group t
+    t    t
+
+.group ts
+    ts    dz
+
+.group u
+    u    u
+
+.group w
+    w    w
+.group y
+    y    y
+
+.group z
+    z    z
